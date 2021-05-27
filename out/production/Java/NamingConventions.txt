@@ -1,0 +1,9 @@
+Variable: sname, stockPrice etc.
+
+Constants: all caps-> MAX_PRICE, MIN_HEIGHT etc.
+
+Methods: verb->camel case-> printPrime, getSubString etc.
+
+Class: noun -> Student, Account etc.
+
+Interface: adjective -> Runable, Readable etc.
