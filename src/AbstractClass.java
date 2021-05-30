@@ -29,7 +29,6 @@ public class AbstractClass {
 //        Human hmn = new Human();
 
          Human man = new Man();
-
     }
 
 }
